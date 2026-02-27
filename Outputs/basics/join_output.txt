@@ -1,0 +1,57 @@
+┌────────┬───────────────────────────┬─────────────────────────────────────────────┐
+│ job_id │      job_title_short      │                company_name                 │
+├────────┼───────────────────────────┼─────────────────────────────────────────────┤
+│ 0      │ Machine Learning Engineer │ Mutt Data                                   │
+│ 1      │ Data Engineer             │ Technical Global Solutions                  │
+│ 2      │ Data Analyst              │ Air Liquide                                 │
+│ 3      │ Data Scientist            │ Devoteam                                    │
+│ 4      │ Data Scientist            │ The Elite Job                               │
+│ 5      │ Data Scientist            │ HR Admin                                    │
+│ 6      │ Data Scientist            │ Experian                                    │
+│ 7      │ Senior Data Engineer      │ Exadel                                      │
+│ 8      │ Data Scientist            │ Nationwide Insurance and Financial Services │
+│ 9      │ Data Engineer             │ Upwork                                      │
+│ 10     │ Data Analyst              │ Singer Vehicle Design (SVD)                 │
+│ 11     │ Data Engineer             │ Metasys Technologies                        │
+│ 12     │ Data Analyst              │ Los Angeles Regional Food Bank              │
+│ 13     │ Business Analyst          │ Motion Recruitment                          │
+│ 14     │ Cloud Engineer            │ The Travelers Companies, Inc.               │
+└────────┴───────────────────────────┴─────────────────────────────────────────────┘
+┌────────┬───────────────────────────┬─────────────────────────────────────────────┐
+│ job_id │      job_title_short      │                company_name                 │
+├────────┼───────────────────────────┼─────────────────────────────────────────────┤
+│ 0      │ Machine Learning Engineer │ Mutt Data                                   │
+│ 1      │ Data Engineer             │ Technical Global Solutions                  │
+│ 2      │ Data Analyst              │ Air Liquide                                 │
+│ 3      │ Data Scientist            │ Devoteam                                    │
+│ 4      │ Data Scientist            │ The Elite Job                               │
+│ 5      │ Data Scientist            │ HR Admin                                    │
+│ 6      │ Data Scientist            │ Experian                                    │
+│ 7      │ Senior Data Engineer      │ Exadel                                      │
+│ 8      │ Data Scientist            │ Nationwide Insurance and Financial Services │
+│ 9      │ Data Engineer             │ Upwork                                      │
+│ 10     │ Data Analyst              │ Singer Vehicle Design (SVD)                 │
+│ 11     │ Data Engineer             │ Metasys Technologies                        │
+│ 12     │ Data Analyst              │ Los Angeles Regional Food Bank              │
+│ 13     │ Business Analyst          │ Motion Recruitment                          │
+│ 14     │ Cloud Engineer            │ The Travelers Companies, Inc.               │
+└────────┴───────────────────────────┴─────────────────────────────────────────────┘
+┌────────┬───────────────────────────┬────────────┐
+│ job_id │      job_title_short      │   skills   │
+├────────┼───────────────────────────┼────────────┤
+│ 0      │ Machine Learning Engineer │ python     │
+│ 0      │ Machine Learning Engineer │ postgresql │
+│ 0      │ Machine Learning Engineer │ databricks │
+│ 0      │ Machine Learning Engineer │ aws        │
+│ 0      │ Machine Learning Engineer │ gcp        │
+│ 0      │ Machine Learning Engineer │ spark      │
+│ 0      │ Machine Learning Engineer │ airflow    │
+│ 0      │ Machine Learning Engineer │ kafka      │
+│ 0      │ Machine Learning Engineer │ keras      │
+│ 0      │ Machine Learning Engineer │ pytorch    │
+│ 0      │ Machine Learning Engineer │ kubernetes │
+│ 0      │ Machine Learning Engineer │ docker     │
+│ 2      │ Data Analyst              │ express    │
+│ 2      │ Data Analyst              │ power bi   │
+│ 2      │ Data Analyst              │ excel      │
+└────────┴───────────────────────────┴────────────┘
