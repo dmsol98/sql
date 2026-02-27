@@ -24,6 +24,11 @@ sqlite -header -box -nullvalue NULL -version <path/to/db>
 
 Once inside the SQLite shell, you can use the following commands to preview important aspects of the data.
 
+Query to list all tables in dataset.
+```sqlite
+SELECT * FROM sqlite_master WHERE type = 'table' AND name NOT LIKE 'sqlite_%';
+```
+
 Output the path of connected databases.
 
 ```sqlite
